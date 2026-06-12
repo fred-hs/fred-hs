@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Fred 👋
 
-<!--
-**fred-hs/fred-hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business student exploring the space where **strategy meets data**. Currently working through machine learning at IESE and building small projects to put the theory into practice.
 
-Here are some ideas to get you started:
+- 🎓 Studying business, with a growing focus on data science and ML
+- 🔭 Learning by doing - turning coursework into hands-on notebooks and projects
+- 🧰 Comfortable with **Python**, **Jupyter**, and the basics of the data toolkit
+- 🌱 Currently levelling up: pandas, scikit-learn, and putting models to work on real questions
+- 💬 Happy to chat about applying analytics to business problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<sub>Always learning. Open to interesting projects and collaborations.</sub>
